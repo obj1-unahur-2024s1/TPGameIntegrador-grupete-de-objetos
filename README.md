@@ -8,7 +8,8 @@
 
 ## Capturas
 
-(agregar)
+![captura1](https://github.com/obj1-unahur-2024s1/TPGameIntegrador-grupete-de-objetos/assets/141975201/08adc479-fdfe-444a-aca0-01e043ecdfb7)
+
 
 ## Reglas de Juego / Instrucciones
 
