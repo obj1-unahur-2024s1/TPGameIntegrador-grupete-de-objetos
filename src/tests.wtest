@@ -1,3 +1,6 @@
+import wollok.game.*
+import inicio.*
+import juego.*
 
 test "testX" {
 
