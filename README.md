@@ -14,6 +14,7 @@
 ## Reglas de Juego / Instrucciones
 
 Reglas:
+
 El objetivo del juego es sumar la mayoria de puntos con la cantidad de vida asignada.
 
 Instrucciones:
