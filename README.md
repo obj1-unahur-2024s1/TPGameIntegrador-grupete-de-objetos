@@ -19,7 +19,7 @@ El objetivo del juego es sumar la mayoria de puntos con la cantidad de vida asig
 
 Instrucciones:
 - Esquivar los autos amarillos con las teclas derecha e izquierda.
-- Agarrar los autos multicolor para sumar más puntos.
+- Agarrar los autos multicolor para sumar más vida.
 
 
 ## Otros
