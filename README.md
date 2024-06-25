@@ -1,10 +1,10 @@
-# Nombre del juego (<- borrar y completar)
+# Road Fighter
 
 ## Equipo de desarrollo
 
-- Alguien
-- Persona
-- etc.
+- Diaz Brian
+- Mendoza Matias
+- Galván Erika
 
 ## Capturas
 
@@ -12,11 +12,16 @@
 
 ## Reglas de Juego / Instrucciones
 
-(Escribirlas)
+Reglas:
+El objetivo del juego es sumar la mayoria de puntos con la cantidad de vida asignada.
+
+Instrucciones:
+- Esquivar los autos amarillos con las teclas derecha e izquierda.
+- Agarrar los autos multicolor para sumar más puntos.
 
 
 ## Otros
 
-- Curso/Facultad
+- Comisión 1B Turno Noche - Universidad Nacional de hurlingham
 - Versión de wollok
-- Una vez terminado, no tenemos problemas en que el repositorio sea público / queremos manternerlo privado
+- Una vez terminado, queremos manternerlo privado
