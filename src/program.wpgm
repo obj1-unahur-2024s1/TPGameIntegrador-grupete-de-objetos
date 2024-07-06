@@ -1,0 +1,6 @@
+import wollok.game.*
+import juego.*
+
+program roadFigther {
+	juego.iniciar() /*llamo al metodo que inicia mi juego*/
+}

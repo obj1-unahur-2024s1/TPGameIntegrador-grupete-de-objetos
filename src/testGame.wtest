@@ -1,0 +1,39 @@
+import wollok.game.*
+import juego.*
+import personajes.*
+import niveles.*
+import direcciones.*
+
+describe "Road Fighter" {
+	
+	method initialize() {
+		game.clear()
+	}
+	
+	
+	test "el jugador tiene 3 vidas" {
+		assert.equals(3, jugador.vidas())
+	}
+	
+	test "el jugador no tiene puntos" {
+		assert.equals(0, jugador.puntos())
+	}
+	
+	test "nivel actual" {
+		assert.equals(1, gestorDeNiveles.nivelActualNumero())
+	}
+	
+	test "nueva posicion de enemigos" {
+		const enemigo = new Enemigo(position=game.at(6,10))
+		assert.that(enemigo.position() == game.at(6,10))
+	}
+	
+	test "nueva posicion de combustible" {
+		const combustible = new Combustible(position=game.at(7,12))
+		assert.that(combustible.position() == game.at(7,12))
+	}
+
+	
+}
+
+
