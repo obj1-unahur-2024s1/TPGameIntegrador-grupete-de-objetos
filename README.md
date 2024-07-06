@@ -18,8 +18,8 @@ Reglas:
 El objetivo del juego es sumar la mayoria de puntos con la cantidad de vida asignada.
 
 Instrucciones:
-- Esquivar los autos amarillos con las teclas derecha e izquierda.
-- Agarrar los autos multicolor para sumar más vida.
+- Esquivar los autos amarillos con las teclas A y D.
+- Agarrar 10 autos multicolor (combustible) para sumar más vida y pasar de nivel.
 
 
 ## Otros
