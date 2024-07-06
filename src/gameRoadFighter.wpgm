@@ -1,9 +1,0 @@
-import wollok.game.*
-import inicio.*
-
-
-program game {
-	
-	inicioDeJuego.configuracion()
-
-} 
